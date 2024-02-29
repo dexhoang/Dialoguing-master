@@ -21,9 +21,15 @@
 			"speaker" : "homer",
 			"dialog" : "So the gods prevented them from ever reaching home."
 		},
+		{
+			"speaker" : "peter",
+			"dialog" : "I don't know what I'm doin' here. I was just lookin' for the can.",
+			"newSpeaker" : "true"
+		},
 		{	
 			"speaker" : "homer",
-			"dialog" : "Tell me, too, about all these things, O daughter of Jove, from whatsoever source you may know them."
+			"dialog" : "Tell me, too, about all these things, O daughter of Jove, from whatsoever source you may know them.",
+			"newSpeaker" : "true"
 		}
 	],
 	[
@@ -33,8 +39,14 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "peter",
+			"dialog" : "Shut up Meg.",
+			"newSpeaker" : "true"
+		},
+		{
 			"speaker" : "neptune",
-			"dialog" : "Look at Aegisthus; he must needs make love to Agamemnon's wife unrighteously and then kill Agamemnon, though he knew it would be the death of him."
+			"dialog" : "Look at Aegisthus; he must needs make love to Agamemnon's wife unrighteously and then kill Agamemnon, though he knew it would be the death of him.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "minerva",
